@@ -1,4 +1,5 @@
 ✈️ Análisis de Fidelización y Comportamiento de Clientes: Aerolínea. Como ejercicio de aprendizaje para el 3 módulo de Adalab.
+
 📝 Descripción del Proyecto
 Este proyecto consiste en un análisis exploratorio de datos (EDA) y estadístico de una base de datos de una aerolínea. El objetivo principal es identificar los factores que influyen en el valor del cliente (CLV) y su frecuencia de vuelo, analizando variables demográficas, económicas y de fidelidad.
 
